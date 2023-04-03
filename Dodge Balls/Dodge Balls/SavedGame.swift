@@ -2,8 +2,8 @@
 //  SavedGame.swift
 //  Dodge Balls
 //
-//  Created by Valentina Carfagno on 5/3/19.
-//  Copyright © 2019 RSC. All rights reserved.
+//  Created by Chiristofer Patrick Paes on 5/3/19.
+//  Copyright © Chiristofer Patrick Paes 2019 RSC. All rights reserved.
 //
 
 import Foundation
